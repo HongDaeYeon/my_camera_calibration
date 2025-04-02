@@ -15,6 +15,8 @@
 
 위에서 얻은 Calibration 데이터를 활용해 영상의 렌즈 왜곡을 보정하였습니다. 보정된 영상은 output.avi 파일로 저장되었습니다.
 - 원본 영상 - chessboard.avi
-- 보정된 영상 - output.avi
+-  ![Image](https://github.com/user-attachments/assets/4fd2b046-3b82-438b-a5b8-8e9008e59b43)
+- 보정된 영상 - output.avi 
+- ![Image](https://github.com/user-attachments/assets/f2dde3c7-5ee5-466a-a94d-c5c025434bf6)
 - 
 보정된 영상에서는 방사 왜곡과 접선 왜곡이 줄어들어 곡선으로 보이던 직선이 올바르게 보입니다. output.avi를 실행 보정 결과를 확인할 수 있습니다.
